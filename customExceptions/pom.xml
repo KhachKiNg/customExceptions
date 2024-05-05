@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mk</groupId> <!-- Replace with your groupId -->
     <artifactId>custom-exceptions</artifactId> <!-- Replace with your artifactId -->
-    <version>1.0.0</version> <!-- Replace with your version -->
+    <version>1.0.3</version> <!-- Replace with your version -->
 
     <!-- Project information -->
     <name>Custom Exceptions</name>
